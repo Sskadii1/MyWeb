@@ -52,7 +52,7 @@ jQuery(function($){
 	
    
 
-	jQuery('#portfolio-list').mixItUp();	
+		
 
 
 
